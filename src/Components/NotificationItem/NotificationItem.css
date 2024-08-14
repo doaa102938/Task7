@@ -1,0 +1,31 @@
+.c1,
+.c2,
+.c3 {
+    background-color: hsl(210, 60%, 98%);
+
+}
+
+.c3 a,
+.c7 a {
+    color: hsl(219, 85%, 26%);
+}
+
+#PrivateMassage {
+    color: hsl(219, 12%, 42%);
+    font-weight: 500;
+    font-size: 12px;
+}
+
+#DivMassage {
+    border-radius: 5px;
+    border: 1px solid hsl(205, 33%, 90%);
+    padding: 15px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+#DivMassage:hover {
+    background-color: hsl(205, 33%, 90%);
+
+}
